@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**la-yun/la-yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 Hi, I'm Yunuen Estrada  
 
-Here are some ideas to get you started:
+### 👩‍🔬 About Me  
+Pharmaceutical Biochemist and Platzi student 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📚 Currently Learning  
+- 📊 Data Analysis  
+- 🧮 Excel  
+- 🐧 Linux  
+- 💻 Terminal  
+- 🧠 Git & GitHub  
+
+---
+
+### 📍 Location  
+🇲🇽 Mexico  
+
+---
+
+### 🤝 Let's Connect!  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yunuen-estrada/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yunuen%20Estrada-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:layunistrada@gmail.com">
+    <img src="https://img.shields.io/badge/Email-layunistrada%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
