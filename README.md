@@ -6,11 +6,13 @@ Pharmaceutical Biochemist and Platzi student 🚀
 
 ---
 ### 📚 Currently Learning  
-- 📊 Data Analysis  
-- 🧮 Excel  
-- 🐧 Linux  
-- 💻 Terminal  
-- 🧠 Git & GitHub  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?logo=gnometerminal&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
 ---
 
